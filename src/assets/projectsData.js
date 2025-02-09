@@ -27,6 +27,13 @@ const projects = [
       link: "https://pet-sitting-site-aef5f.web.app/",
       image: "/images/pet-sitting.png",
     },
+    {
+      title: "RoneDotCom",
+      description: "A Windows 95 themed page supporting the Bartstool Sports Content Creator Rone and his new platform RoneDotCom.",
+      tech: "React, NextJS, TailwindCSS, Typscript, Vercel",
+      link: "https://project-rone.vercel.app/",
+      image: "/images/ronedotcom-logo.jpg",
+    },
   ];
   
   export default projects;
